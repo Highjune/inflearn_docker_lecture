@@ -9,4 +9,4 @@ app.get('/', (req,res) => { // '/' 경로로 요청이 오면 Hello World 결과
 });
 
 app.listen(PORT); // 이 포트에서 앱이 실행됨 
-console.log("Hey kangjune, Server is running")
+console.log("Hi june, Server is running");
